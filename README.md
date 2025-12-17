@@ -1,10 +1,10 @@
-QA Portfolio – Eder Ipanaqué
+# QA Portfolio – Eder Ipanaqué
 
-* About Me
+## About Me
 Quality Assurance professional with experience in manual testing, test case design, defect reporting, and data validation. 
 Experienced working with cross-functional teams to ensure product quality.
 
-* Skills
+## Skills
 - Manual Testing (Functional, Regression, Smoke)
 - Test Case Design & Execution
 - Bug Reporting & Tracking
@@ -13,7 +13,7 @@ Experienced working with cross-functional teams to ensure product quality.
 - Basic Automation (Selenium – Python)
 - BDD (Gherkin)
 
-* Tools
+## Tools
 - Jira
 - Selenium
 - GitHub
@@ -21,13 +21,13 @@ Experienced working with cross-functional teams to ensure product quality.
 - BigQuery (data validation)
 - Postman (basic)
 
-* Portfolio Content
+## Portfolio Content
 This repository contains examples of:
 - Test cases
 - Bug reports
 - BDD scenarios written in Gherkin
 - Basic automation examples
 
-* Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/eder-ipanaque
 - Email: eder.ipanaque@gmail.com
