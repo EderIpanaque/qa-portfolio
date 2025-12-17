@@ -29,5 +29,5 @@ This repository contains examples of:
 - Basic automation examples
 
 * Contact
-- LinkedIn: [(pon tu link)](https://www.linkedin.com/in/eder-ipanaque/)
+- LinkedIn: https://www.linkedin.com/in/eder-ipanaque
 - Email: eder.ipanaque@gmail.com
