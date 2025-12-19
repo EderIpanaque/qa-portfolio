@@ -4,7 +4,7 @@ Hi! I'm Eder Ipanaqué, a Manual QA Engineer with 3+ years of hands-on experienc
 
 🔒 All content is fictional or generalized to respect client confidentiality (NDAs).
 
-##👤 About Me
+## 👤 About Me
 💼 QA Engineer - Specializing in full-cycle software testing, quality processes, and bringing clarity through structured QA and reliable manual testing practices.
 
 | Proven track record in:
