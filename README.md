@@ -24,7 +24,9 @@ Hi! I'm Eder Ipanaqué, a Manual QA Engineer with 3+ years of hands-on experienc
 ☀️ America/Lima (UTC-05:00)
 
 🌐 Languages:
+
 ES Spanish(PE)
+
 GB English (intermediate)
 
 
