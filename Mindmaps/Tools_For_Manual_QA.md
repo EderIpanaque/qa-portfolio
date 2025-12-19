@@ -25,7 +25,6 @@ graph TD
     Tracking --> AzureDevOps[Azure DevOps]
 
     API --> Postman[Postman]
-    API --> Insomnia[Insomnia]
 
     DB --> DBeaver[DBeaver]
     DB --> MySQLWorkbench[MySQL Workbench]
@@ -72,9 +71,6 @@ graph TD
 
 - **[Postman](https://www.postman.com/)**  
   REST API testing tool with environment setup, scripting, collections, and automation.
-
-- **[Insomnia](https://insomnia.rest/)**  
-  Fast, minimalist API client ideal for quick calls and debugging.
 
 ---
 
