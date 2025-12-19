@@ -1,4 +1,4 @@
-# SABE+ – Application Status Flow
+# TC-002 sabe plus flow funtional & notifications
 
 ## Overview
 This document describes the application status flow of the SABE+ system, including the different roles involved and the transitions between each process stage.
