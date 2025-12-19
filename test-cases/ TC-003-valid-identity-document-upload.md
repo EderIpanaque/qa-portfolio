@@ -1,7 +1,7 @@
-# TC-005 – Upload Valid Identity Document
+# TC-003 – Upload Valid Identity Document
 
 ## Test Case ID
-TC-005
+TC-003
 
 ## Title
 Validate successful upload of a valid identity document.
