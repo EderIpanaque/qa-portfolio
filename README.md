@@ -15,10 +15,14 @@ Hi! I'm Eder Ipanaqué, a Manual QA Engineer with 3+ years of hands-on experienc
 - Passionate about crafting clean and predictable releases users can trust through thoughtful testing and continuous process improvement.
 
 📧 Email: eder.ipanaque@gmail.com 
+
 🔗 LinkedIn: Eder Ipanaqué
+
 📍 Location: Lima, Peru
+
 🕒 Time Zone:
 ☀️ America/Lima (UTC-05:00)
+
 🌐 Languages:
 ES Spanish(PE)
 GB English (intermediate)
