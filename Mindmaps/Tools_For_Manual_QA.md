@@ -21,7 +21,6 @@ graph TD
     Management --> XRAY[Xray]
 
     Tracking --> Jira[Jira]
-    Tracking --> YouTrack[YouTrack]
     Tracking --> AzureDevOps[Azure DevOps]
 
     API --> Postman[Postman]
@@ -58,9 +57,6 @@ graph TD
 
 - **[Jira](https://www.atlassian.com/software/jira)**  
   Most popular issue tracking tool with customizable workflows and integrations.
-
-- **[YouTrack](https://www.jetbrains.com/youtrack/)**  
-  Lightweight tool by JetBrains with powerful search, workflows, and agile boards.
 
 - **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)**  
   Includes boards and repos. Common in enterprise SCRUM setups.
