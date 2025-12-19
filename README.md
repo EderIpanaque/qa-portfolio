@@ -1,4 +1,5 @@
-🚶‍♂️‍➡️ Eder Ipanaqué – Manual QA Engineer Portfolio
+# 🚶‍♂️‍➡️ Eder Ipanaqué – Manual QA Engineer Portfolio
+
 Hi! I'm Eder Ipanaqué, a Manual QA Engineer with 3+ years of hands-on experience in software testing across web and desktop applications.
 
 🔒 All content is fictional or generalized to respect client confidentiality (NDAs).
